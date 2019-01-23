@@ -1,1 +1,2 @@
 # WordMaster
+# Word guessing game
